@@ -2,7 +2,7 @@
 
 .card {
   background-color: var(--white);
-  border-radius: 10px;
+  border-radius: 8px;
   box-shadow: var(--card-shadow);
   padding: 10px;
 }
@@ -39,7 +39,7 @@
 
 .list {
   border: var(--border-in-light);
-  border-radius: 10px;
+  border-radius: 8px;
   box-shadow: var(--card-shadow);
   margin-bottom: 20px;
   animation: slide-in ease 0.3s;
@@ -162,7 +162,7 @@
 
 .input {
   border: var(--border-in-light);
-  border-radius: 10px;
+  border-radius: 8px;
   padding: 10px;
   font-family: inherit;
   background-color: var(--white);
