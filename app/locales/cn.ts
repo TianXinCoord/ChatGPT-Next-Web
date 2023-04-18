@@ -154,7 +154,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "有什么可以帮你的吗",
+    BotHello: "你好，我是你的AI智能助手",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) =>
@@ -167,7 +167,7 @@ const cn = {
     ConfirmClearAll: "确认清除所有聊天、设置数据？",
   },
   Copy: {
-    Success: "已写入剪切板",
+    Success: "复制成功",
     Failed: "复制失败，请赋予剪切板权限",
   },
   Context: {
